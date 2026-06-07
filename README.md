@@ -27,13 +27,3 @@ Pythonで制作したシンプルな2Dシューティングゲームです。
 ## About
 
 個人制作したミニゲームです。
-
-## Screenshots
-
-ゲーム画面
-
-![Game Screen](bg.png)
-
-## Author
-
-kusiGi
